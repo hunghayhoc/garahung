@@ -98,3 +98,4 @@ $redirect = htmlspecialchars($_GET['redirect'] ?? '');
 </body>
 </html>
 <!-- Trung v1: tạo form đăng nhập -->
+<!-- Trung v2: thêm validation -->
