@@ -150,3 +150,4 @@ $old = [
 <!-- Minh v2: thêm validation email --
 <!-- Minh v3: thêm xác nhận mật khẩu -->
 <!-- Minh v4: fix lỗi SĐT trùng -->
+<!-- Minh v5: thêm avatar -->
