@@ -148,3 +148,4 @@ $old = [
 </html>
 <!-- Minh v1: tạo form đăng ký -->
 <!-- Minh v2: thêm validation email --
+<!-- Minh v3: thêm xác nhận mật khẩu -->
