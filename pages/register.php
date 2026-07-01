@@ -147,3 +147,4 @@ $old = [
 </body>
 </html>
 <!-- Minh v1: tạo form đăng ký -->
+<!-- Minh v2: thêm validation email --
