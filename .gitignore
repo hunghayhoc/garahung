@@ -1,0 +1,27 @@
+# File cấu hình database (chứa mật khẩu)
+config/db.php
+
+# Thư mục upload ảnh
+assets/uploads/*
+!assets/uploads/.gitkeep
+
+# Log files
+*.log
+logs/
+
+# Cache
+cache/
+tmp/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup database
+*.sql.bak
