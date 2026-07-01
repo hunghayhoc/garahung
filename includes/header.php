@@ -1,4 +1,4 @@
-<!-- Trung: thêm menu Đăng nhập -->
+<!-- Minh: thêm menu Khách hàng -->
 // includes/header.php
 if (session_status() === PHP_SESSION_NONE) session_start();
 $is_admin = !empty($_SESSION['nv_id']);
