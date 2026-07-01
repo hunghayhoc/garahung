@@ -1,4 +1,14 @@
 <!-- Phong: thêm menu Khuyến mãi -->
+<!-- Phong: thêm menu Khuyến mãi -->
+=======
+
+
+<!-- Hưng: thêm menu Xe ô tô -->
+<!-- Trung: thêm menu Đăng nhập -->
+<!-- Minh: thêm menu Khách hàng -->
+<!-- Kiên: thêm menu Đơn hàng -->
+
+>>>>>>> a8decabcadf9014fd38ecf23cb7129423ac49cb7
 // includes/header.php
 if (session_status() === PHP_SESSION_NONE) session_start();
 $is_admin = !empty($_SESSION['nv_id']);
