@@ -63,3 +63,5 @@ function copyCode(code) {
 }
 </script>
 <?php require_once '../includes/footer.php'; ?>
+<!-- Phong v1: tạo trang khuyến mãi -->
+<!-- Phong v1: tạo trang khuyến mãi -->
