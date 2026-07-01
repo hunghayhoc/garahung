@@ -1,4 +1,4 @@
-<?php
+<!-- Phong: thêm menu Khuyến mãi -->
 // includes/header.php
 if (session_status() === PHP_SESSION_NONE) session_start();
 $is_admin = !empty($_SESSION['nv_id']);
