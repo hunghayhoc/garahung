@@ -125,3 +125,4 @@ $dm_list=$db->query("SELECT id,ten_danh_muc FROM danh_muc_xe WHERE trang_thai='h
 </div>
 
 <?php require_once '../includes/footer.php'; ?>
+<!-- Hưng v1: tạo danh sách xe -->
