@@ -137,3 +137,4 @@ $hang_list = $db->query("SELECT h.*, COUNT(x.id) AS so_xe FROM hang_xe h LEFT JO
 
 <?php require_once '../includes/footer.php'; ?>
 <!-- cập nhật v1.1 -->
+<!-- cập nhật v1.2 -->
