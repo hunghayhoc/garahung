@@ -101,3 +101,4 @@ $redirect = htmlspecialchars($_GET['redirect'] ?? '');
 <!-- Trung v2: thêm validation -->
 <!-- Trung v3: thêm remember me -->
 <!-- Trung v4: fix lỗi session -->
+<!-- Trung v5: thêm đăng xuất -->
