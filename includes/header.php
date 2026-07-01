@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <!-- Hưng: thêm menu Xe ô tô -->
+=======
+<!-- Trung: thêm menu Đăng nhập -->
+>>>>>>> c308b956518ce27b7f5d7266f6d72a0d252fb8d9
 // includes/header.php
 if (session_status() === PHP_SESSION_NONE) session_start();
 $is_admin = !empty($_SESSION['nv_id']);
