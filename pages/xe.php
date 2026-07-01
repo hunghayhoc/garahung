@@ -129,3 +129,4 @@ $dm_list=$db->query("SELECT id,ten_danh_muc FROM danh_muc_xe WHERE trang_thai='h
 <!-- Hưng v2: thêm filter hãng xe -->
 <!-- Hưng v3: thêm filter giá -->
 <!-- Hưng v4: fix lỗi hiển thị giá -->
+<!-- Hưng v5: cải thiện UI -->
